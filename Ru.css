@@ -1,0 +1,147 @@
+.languages {
+  list-style-type: none;
+  text-align: left;
+  margin-right: 10%;
+  margin-left: 0%;
+  transform: translateY(-130px);
+  width: 100px;
+}
+
+.eng {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: block;
+  opacity: 40%;
+
+}
+
+.de {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: block;
+  opacity: 40%;
+}
+
+.ru {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: block;
+  opacity: 85%;
+
+}
+
+.eng:hover {
+  transform: scale(1.5);
+  opacity: 100%;
+}
+.de:hover {
+  transform: scale(1.5);
+  opacity: 100%;
+
+}
+.ru:hover {
+  transform: scale(1.5);
+  opacity: 100%;
+
+}
+.eng:active {
+  transform: scale(2);
+  opacity: 100%;
+}
+.de:active {
+  transform: scale(2);
+  opacity: 100%;
+
+}
+.ru:active {
+  transform: scale(2);
+  opacity: 100%;
+
+}
+
+@media (max-width: 125px) {
+  .languages {
+    margin-left: 25%;
+  }
+}
+
+@media (max-width: 575px) {
+
+.languages {
+  list-style-type: none;
+  text-align: left;
+  margin-right: 10%;
+  margin-left: 20%;
+  transform: translateY(10px);
+  width: 100px;
+
+}
+
+
+.eng {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: block;
+  opacity: 40%;
+
+}
+
+.de {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: block;
+  opacity: 40%;
+}
+
+.ru {
+  position: relative;
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+  display: block;
+  opacity: 85%;
+
+}
+
+
+.eng:hover {
+  transform: scale(1.5);
+  opacity: 100%;
+}
+.de:hover {
+  transform: scale(1.5);
+  opacity: 100%;
+
+}
+.ru:hover {
+  transform: scale(1.5);
+  opacity: 100%;
+
+}
+.eng:active {
+  transform: scale(2);
+  opacity: 100%;
+}
+.de:active {
+  transform: scale(2);
+  opacity: 100%;
+
+}
+.ru:active {
+  transform: scale(2);
+  opacity: 100%;
+
+}
+  
+}
+

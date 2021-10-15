@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1024 1024">
+
+<defs/>
+<g id="Ebene 3 kopieren" vectornator:layerName="Ebene 3 kopieren">
+<g opacity="1">
+<path d="M317.75+104.844C203.996+159.208+116.653+259.838+79.9375+382.375L944.062+382.375C907.347+259.838+820.004+159.208+706.25+104.844L317.75+104.844Z" fill-rule="evenodd" fill="#ffffff" opacity="1"/>
+<path d="M80.1875+381.562C67.7263+422.867+60.9375+466.632+60.9375+512C60.9375+563.511+69.6929+612.954+85.5938+659.062L938.406+659.062C954.307+612.954+963.062+563.511+963.062+512C963.062+466.632+956.274+422.867+943.812+381.562L80.1875+381.562Z" fill-rule="evenodd" fill="#2657b3" opacity="1"/>
+<path d="M85.5938+659.062C130.066+788.022+231.289+890.503+359.5+936.562L664.5+936.562C792.711+890.503+893.934+788.022+938.406+659.062L85.5938+659.062Z" fill-rule="evenodd" fill="#b92d22" opacity="1"/>
+</g>
+<path stroke="#ffffff" stroke-width="68.4831" d="M62.1253+517.557C62.1253+268.449+264.068+66.5069+513.176+66.5069C762.284+66.5069+964.226+268.449+964.226+517.557C964.226+766.666+762.284+968.608+513.176+968.608C264.068+968.608+62.1253+766.666+62.1253+517.557Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="39.7712" d="M114.152+516.265C114.152+296.051+292.671+117.532+512.885+117.532C733.099+117.532+911.618+296.051+911.618+516.265C911.618+736.479+733.099+914.997+512.885+914.997C292.671+914.997+114.152+736.479+114.152+516.265Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+.vidButt {
+	position: relative; 
+	text-align: right; 
+	background-color: black; 
+	border-radius: 40%;
+	border-width: 0px; 
+	border-color: white;
+	margin-right: 5px;
+	margin-left: 5px;
+	width: 60px;
+	font-size: 30px;
+}
+.vidButt:hover {
+	border-color: #d45760;
+	color: #d45760;
+	
+}
+.vidButt:active {
+	border-color: white;
+	color: white;
+
+}
+
+@media (max-width: 1200px) {
+	#myVideo {
+}
+
+}
